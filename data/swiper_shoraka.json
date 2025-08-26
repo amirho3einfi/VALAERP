@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "logo": "Image/shoraka/shakeli.png",
+      "title": "شکلی"
+    },
+    {
+      "id": 2,
+      "logo": "Image/shoraka/Safa-img.png",
+      "title": "صفاپخش"
+    },
+    {
+      "id": 3,
+      "logo": "Image/shoraka/chopan.png",
+      "title": "چوپان"
+    },
+    {
+      "id": 4,
+      "logo": "Image/shoraka/IKCO.png",
+      "title": "ایران خودرو"
+    },
+    {
+      "id": 5,
+      "logo": "Image/shoraka/mino.svg",
+      "title": "مینو"
+    },
+    {
+      "id": 6,
+      "logo": "Image/shoraka/korosh.png",
+      "title": "افق کوروش"
+    },
+    {
+      "id": 7,
+      "logo": "Image/shoraka/mihan.png",
+      "title": "میهن"
+    },
+    {
+      "id": 8,
+      "logo": "Image/shoraka/hamkaran.svg",
+      "title": "همکاران سیستم"
+    },
+    {
+      "id": 9,
+      "logo": "Image/shoraka/paksan.png",
+      "title": "پاکسان"
+    }
+  ]
